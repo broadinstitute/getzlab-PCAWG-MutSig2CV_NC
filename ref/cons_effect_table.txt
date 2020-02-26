@@ -1,0 +1,7 @@
+name	permutations_effect_idx	include_in_permutations	is_indel	newbase_dependent	is_background
+-2	1	1	0	0	0
+-1	2	1	0	0	0
+0	3	1	0	0	1
+1	2	1	0	0	0
+2	1	1	0	0	0
+indel	4	1	1	0	0

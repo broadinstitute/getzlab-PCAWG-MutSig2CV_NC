@@ -1,0 +1,2 @@
+coverage_models_mat_file	ref/covmodels/Lymph-BNHL_e15_gc_pc.5utr_covmodel/coverage_models.nontrans.mat
+covariates_file	ref/covmodels/Lymph-BNHL_e15_gc_pc.5utr_covmodel/covariates_nontransformed.txt

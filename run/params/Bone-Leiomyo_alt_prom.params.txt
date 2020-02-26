@@ -1,0 +1,2 @@
+coverage_models_mat_file	ref/covmodels/Bone-Leiomyo_e15_alt_prom_covmodel/coverage_models.nontrans.mat
+covariates_file	ref/covmodels/Bone-Leiomyo_e15_alt_prom_covmodel/covariates_nontransformed.txt

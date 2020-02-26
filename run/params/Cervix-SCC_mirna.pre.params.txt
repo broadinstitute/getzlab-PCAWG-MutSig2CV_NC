@@ -1,0 +1,2 @@
+coverage_models_mat_file	ref/covmodels/Cervix-SCC_e15_mirna.pre_covmodel/coverage_models.nontrans.mat
+covariates_file	ref/covmodels/Cervix-SCC_e15_mirna.pre_covmodel/covariates_nontransformed.txt

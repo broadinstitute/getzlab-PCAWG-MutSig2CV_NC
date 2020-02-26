@@ -1,0 +1,2 @@
+coverage_models_mat_file	ref/covmodels/Kidney-ChRCC_e15_promcore_covmodel/coverage_models.nontrans.mat
+covariates_file	ref/covmodels/Kidney-ChRCC_e15_promcore_covmodel/covariates_nontransformed.txt

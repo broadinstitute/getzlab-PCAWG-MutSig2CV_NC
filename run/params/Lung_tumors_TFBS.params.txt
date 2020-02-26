@@ -1,0 +1,2 @@
+coverage_models_mat_file	ref/covmodels/Lung_tumors_e15_TFBS_covmodel/coverage_models.nontrans.mat
+covariates_file	ref/covmodels/Lung_tumors_e15_TFBS_covmodel/covariates_nontransformed.txt

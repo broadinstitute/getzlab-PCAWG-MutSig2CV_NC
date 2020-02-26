@@ -1,0 +1,2 @@
+coverage_models_mat_file	ref/covmodels/Myeloid-AML_e15_smallrna.ncrna_covmodel/coverage_models.nontrans.mat
+covariates_file	ref/covmodels/Myeloid-AML_e15_smallrna.ncrna_covmodel/covariates_nontransformed.txt
