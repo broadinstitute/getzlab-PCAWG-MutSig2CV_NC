@@ -22,7 +22,7 @@ To run on the cohort in the manuscript, MutSig requires ~100 GB of reference fil
 
 ## Running <a name="running"></a>
 
-To run on the MATLAB console, start MATLAB in this directory, and run:
+To run interactively on the MATLAB console, start MATLAB in this directory, and run:
 
 ```matlab
 MutSig2CV_NC(<path to mutations>, <path to output directory>, <path to cohort parameters>)
@@ -34,7 +34,7 @@ To run the standalone application, `cd` to this directory, and run:
 bin/MutSig2CV_NC <path to mutations> <path to output directory> <path to cohort parameters>
 ```
 
-MutSig looks for its reference files relative to this directory, so it is essential it is run here.
+MutSig looks for its reference files relative to this directory, so it is essential it is run here. As stated previously, the standalone application will only work on 64 bit Linux systems. As distributed, the interactive version will also only work on 64 bit Linux, but can be made to work on any platform as long as all supplied `.mex` C/C++ extensions are recompiled.
 
 Each input is decribed below.
 
